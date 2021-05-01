@@ -7,4 +7,13 @@
     android:background="@color/backgroundColor"
     tools:context=".MainActivity">
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="102dp"
+        android:layout_height="111dp"
+        android:layout_marginTop="277dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        app:srcCompat="@drawable/logo_upc" />
+
 </RelativeLayout>
